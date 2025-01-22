@@ -1,2 +1,1 @@
-# Prepcourse-de-henry
-Este es un repositorio de prueba M2
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi computadora
